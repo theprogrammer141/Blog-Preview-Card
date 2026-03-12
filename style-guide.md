@@ -11,12 +11,12 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Yellow: hsl(47, 88%, 63%)
+- Yellow: #f4d04e
 
-- White: hsl(0, 0%, 100%)
+- White: #ffffff
 
-- Gray 500: hsl(0, 0%, 42%)
-- Gray 950: hsl(0, 0%, 7%)
+- Gray 500: #6b6b6b
+- Gray 950: #121212
 
 ## Typography
 
