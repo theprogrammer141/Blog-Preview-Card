@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://blog-preview-card-comp.netlify.app/)
 
 ### Built with
 
@@ -43,7 +43,7 @@ Got to learn a new property, "align-self":
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow) - This helped me for understanding box-shadow property.
+- [MDN Box Shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/box-shadow) - This helped me for understanding box-shadow property.
 
 ### AI Collaboration
 
